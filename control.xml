@@ -81,6 +81,9 @@
             </next>
           </block>
         </statement>
+        <next>
+          <block type="movement_stop" id="145"></block>
+        </next>
       </block>
     </statement>
   </block>
